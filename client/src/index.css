@@ -19,7 +19,7 @@ body {
   justify-content: center;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 728px) {
   body {
     overflow: hidden;
   }
